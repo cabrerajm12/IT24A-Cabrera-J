@@ -1,0 +1,3 @@
+Name: Jose Maria P Cabrera II
+Course: IT20A
+Activity: Basics of git and GitHub
